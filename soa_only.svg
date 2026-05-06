@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-206 -92 786 629" width="786" height="629">
+  <defs/>
+  <g id="Canvas_1" fill="none" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-206" y="-92" width="786" height="629"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_971">
+        <rect x="265.4153" y="-40.77837" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.4153 -40.77837 L 390.6586 -40.77837 L 390.6586 -15.745528 L 265.4153 -15.745528 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(270.4153 -36.76195)" fill="#b1001c">
+          <tspan font-family="Barlow" font-size="14" fill="#b1001c" x="49.746666" y="14" xml:space="preserve">V2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_970">
+        <rect x="124.80006" y="-7.23969" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 124.80006 -7.23969 L 250.0434 -7.23969 L 250.0434 17.793152 L 124.80006 17.793152 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(129.80006 -3.2232692)" fill="#003776">
+          <tspan font-family="Barlow" font-size="14" fill="#003776" x="42.767666" y="14" xml:space="preserve">Day 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_967">
+        <rect x="265.4153" y="-7.23969" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.4153 -7.23969 L 390.6586 -7.23969 L 390.6586 17.793152 L 265.4153 17.793152 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(270.4153 -3.2232692)" fill="#003776">
+          <tspan font-family="Barlow" font-size="14" fill="#003776" x="38.707666" y="14" xml:space="preserve">7 Days</tspan>
+        </text>
+      </g>
+      <g id="Graphic_946">
+        <rect x="127.15057" y="28.398917" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 127.15057 28.398917 L 252.3939 28.398917 L 252.3939 53.43176 L 127.15057 53.43176 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_945">
+        <rect x="-151.14502" y="27.91151" width="125.24333" height="25.032842" fill="#d6d6d6"/>
+      </g>
+      <g id="Graphic_944">
+        <rect x="-11.114162" y="28.398917" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -11.114162 28.398917 L 114.12917 28.398917 L 114.12917 53.43176 L -11.114162 53.43176 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-6.114162 32.415338)" fill="#003776">
+          <tspan font-family="Barlow" font-size="14" fill="#003776" x="22.432666" y="14" xml:space="preserve">-7 .. +6 Days</tspan>
+        </text>
+      </g>
+      <g id="Graphic_943">
+        <rect x="265.63266" y="27.397917" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.63266 27.397917 L 390.876 27.397917 L 390.876 52.43076 L 265.63266 52.43076 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(270.63266 31.41434)" fill="#003776">
+          <tspan font-family="Barlow" font-size="14" fill="#003776" x="21.620666" y="14" xml:space="preserve">-2 .. +2 Days</tspan>
+        </text>
+      </g>
+      <g id="Graphic_941">
+        <rect x="-150.81897" y="64.03752" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -150.81897 64.03752 L -25.57564 64.03752 L -25.57564 89.07037 L -150.81897 89.07037 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-145.81897 68.053945)" fill="#235e00">
+          <tspan font-family="Barlow" font-size="14" fill="#235e00" x="51.559666" y="14" xml:space="preserve">IC</tspan>
+        </text>
+      </g>
+      <g id="Graphic_940">
+        <rect x="-11.05982" y="64.37271" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -11.05982 64.37271 L 114.18351 64.37271 L 114.18351 89.40555 L -11.05982 89.40555 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-6.059819 68.38913)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="53.204666" y="14" xml:space="preserve">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_937">
+        <rect x="-151.47108" y="95.98531" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -151.47108 95.98531 L -26.22775 95.98531 L -26.22775 121.01815 L -151.47108 121.01815 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-146.47108 100.00173)" fill="#235e00">
+          <tspan font-family="Barlow" font-size="14" fill="#235e00" x="31.504666" y="14" xml:space="preserve">Med Hist</tspan>
+        </text>
+      </g>
+      <g id="Graphic_936">
+        <rect x="-11.05982" y="96.3205" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -11.05982 96.3205 L 114.18351 96.3205 L 114.18351 121.35334 L -11.05982 121.35334 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-6.059819 100.33692)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="53.204666" y="14" xml:space="preserve">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_934">
+        <rect x="125.2348" y="-40.77837" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 125.2348 -40.77837 L 250.47813 -40.77837 L 250.47813 -15.745528 L 125.2348 -15.745528 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(130.2348 -36.76195)" fill="#b1001c">
+          <tspan font-family="Barlow" font-size="14" fill="#b1001c" x="51.090666" y="14" xml:space="preserve">V1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_933">
+        <rect x="-151.57976" y="-40.0317" width="125.24333" height="25.032842" fill="#d6d6d6"/>
+      </g>
+      <g id="Graphic_932">
+        <rect x="-11.114162" y="-41.20048" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -11.114162 -41.20048 L 114.12917 -41.20048 L 114.12917 -16.167639 L -11.114162 -16.167639 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-6.114162 -37.18406)" fill="#b1001c">
+          <tspan font-family="Barlow" font-size="14" fill="#b1001c" x="31.644666" y="14" xml:space="preserve">SCRN </tspan>
+          <tspan font-family="Barlow" font-size="14" fill="black" y="14" xml:space="preserve">(a)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_929">
+        <rect x="-151.14502" y="-5.892503" width="125.24333" height="25.032842" fill="#d6d6d6"/>
+      </g>
+      <g id="Graphic_928">
+        <rect x="-12.418384" y="-6.463042" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -12.418384 -6.463042 L 112.82495 -6.463042 L 112.82495 18.5698 L -12.418384 18.5698 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-7.418384 -2.4466206)" fill="#003776">
+          <tspan font-family="Barlow" font-size="14" fill="#003776" x="38.707666" y="14" xml:space="preserve">7 Days</tspan>
+        </text>
+      </g>
+      <g id="Graphic_917">
+        <rect x="-151.47108" y="129.64318" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -151.47108 129.64318 L -26.22775 129.64318 L -26.22775 154.67602 L -151.47108 154.67602 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-146.47108 133.6596)" fill="#235e00">
+          <tspan font-family="Barlow" font-size="14" fill="#235e00" x="48.416666" y="14" xml:space="preserve">DM</tspan>
+        </text>
+      </g>
+      <g id="Graphic_916">
+        <rect x="-11.05982" y="131.43944" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -11.05982 131.43944 L 114.18351 131.43944 L 114.18351 156.47228 L -11.05982 156.47228 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-6.059819 135.45586)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="53.204666" y="14" xml:space="preserve">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_914">
+        <rect x="404.11476" y="27.976806" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 404.11476 27.976806 L 529.3581 27.976806 L 529.3581 53.00965 L 404.11476 53.00965 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(409.11476 31.993227)" fill="#003776">
+          <tspan font-family="Barlow" font-size="14" fill="#003776" x="21.620666" y="14" xml:space="preserve">-2 .. +2 Days</tspan>
+        </text>
+      </g>
+      <g id="Graphic_911">
+        <rect x="403.68" y="-40.0317" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 403.68 -40.0317 L 528.92335 -40.0317 L 528.92335 -14.99886 L 403.68 -14.99886 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(408.68 -36.01528)" fill="#b1001c">
+          <tspan font-family="Barlow" font-size="14" fill="#b1001c" x="49.886666" y="14" xml:space="preserve">V3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_910">
+        <rect x="404.11476" y="-7.23969" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 404.11476 -7.23969 L 529.3581 -7.23969 L 529.3581 17.793152 L 404.11476 17.793152 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(409.11476 -3.2232692)" fill="#003776">
+          <tspan font-family="Barlow" font-size="14" fill="#003776" x="35.956666" y="14" xml:space="preserve">21 Days</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1000">
+        <rect x="-151.47108" y="164.2637" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -151.47108 164.2637 L -26.22775 164.2637 L -26.22775 189.29655 L -151.47108 189.29655 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-146.47108 168.28013)" fill="#235e00">
+          <tspan font-family="Barlow" font-size="14" fill="#235e00" x="46.302666" y="14" xml:space="preserve">Elig</tspan>
+        </text>
+      </g>
+      <g id="Graphic_999">
+        <rect x="-10.951134" y="165.25408" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -10.951134 165.25408 L 114.2922 165.25408 L 114.2922 190.28692 L -10.951134 190.28692 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-5.951134 169.2705)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="53.204666" y="14" xml:space="preserve">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_996">
+        <rect x="-151.47108" y="196.83898" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -151.47108 196.83898 L -26.22775 196.83898 L -26.22775 221.87182 L -151.47108 221.87182 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-146.47108 200.8554)" fill="#235e00">
+          <tspan font-family="Barlow" font-size="14" fill="#235e00" x="49.459666" y="14" xml:space="preserve">VS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_995">
+        <rect x="-11.114162" y="196.83898" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -11.114162 196.83898 L 114.12917 196.83898 L 114.12917 221.87182 L -11.114162 221.87182 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_992">
+        <rect x="-151.47108" y="229.41426" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -151.47108 229.41426 L -26.22775 229.41426 L -26.22775 254.4471 L -151.47108 254.4471 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-146.47108 233.43068)" fill="#235e00">
+          <tspan font-family="Barlow" font-size="14" fill="#235e00" x="49.242666" y="14" xml:space="preserve">PE</tspan>
+        </text>
+      </g>
+      <g id="Graphic_991">
+        <rect x="-10.951134" y="229.41426" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -10.951134 229.41426 L 114.2922 229.41426 L 114.2922 254.4471 L -10.951134 254.4471 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1055">
+        <rect x="-151.47108" y="261.98953" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -151.47108 261.98953 L -26.22775 261.98953 L -26.22775 287.02237 L -151.47108 287.02237 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-146.47108 266.00595)" fill="#235e00">
+          <tspan font-family="Barlow" font-size="14" fill="#235e00" x="45.735666" y="14" xml:space="preserve">QS2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1054">
+        <rect x="-10.733764" y="261.98953" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -10.733764 261.98953 L 114.50956 261.98953 L 114.50956 287.02237 L -10.733764 287.02237 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1051">
+        <rect x="-151.47108" y="297.69265" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -151.47108 297.69265 L -26.22775 297.69265 L -26.22775 322.7255 L -151.47108 322.7255 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-146.47108 301.70907)" fill="#235e00">
+          <tspan font-family="Barlow" font-size="14" fill="#235e00" x="44.895666" y="14" xml:space="preserve">ECG</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1050">
+        <rect x="-10.733764" y="297.69265" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -10.733764 297.69265 L 114.50956 297.69265 L 114.50956 322.7255 L -10.733764 322.7255 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1030">
+        <rect x="-151.47108" y="332.3132" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -151.47108 332.3132 L -26.22775 332.3132 L -26.22775 357.34603 L -151.47108 357.34603 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-146.47108 336.3296)" fill="#235e00">
+          <tspan font-family="Barlow" font-size="14" fill="#235e00" x="40.170666" y="14" xml:space="preserve">Blood</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1029">
+        <rect x="-11.114162" y="332.3132" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -11.114162 332.3132 L 114.12917 332.3132 L 114.12917 357.34603 L -11.114162 357.34603 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-6.114162 336.3296)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="53.204666" y="14" xml:space="preserve">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1026">
+        <rect x="-151.47108" y="366.26335" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -151.47108 366.26335 L -26.22775 366.26335 L -26.22775 391.2962 L -151.47108 391.2962 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(-146.47108 370.27977)" fill="#235e00">
+          <tspan font-family="Barlow" font-size="14" fill="#235e00" x="42.361666" y="14" xml:space="preserve">Dose</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1025">
+        <rect x="124.80006" y="366.26335" width="404.1233" height="25.032842" fill="white"/>
+        <path d="M 124.80006 366.26335 L 528.92335 366.26335 L 528.92335 391.2962 L 124.80006 391.2962 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(129.80006 369.27977)" fill="#666">
+          <tspan font-family="Barlow" font-size="16" fill="#666" x="69.093646" y="16" xml:space="preserve">Dosing shall taking place every 7 days</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1067">
+        <text transform="translate(-131 405.2135)" fill="#666">
+          <tspan font-family="Barlow" font-size="16" fill="#666" x="0" y="16" xml:space="preserve">A daily diary shall be completed by the participant every day until day N  once the ICF and been </tspan>
+          <tspan font-family="Barlow" font-size="16" fill="#666" x="0" y="35" xml:space="preserve">signed</tspan>
+          <tspan font-family="Barlow" font-size="16" fill="#666" x="0" y="54" xml:space="preserve">QS2 shall be performed before ECG</tspan>
+          <tspan font-family="Barlow" font-size="16" fill="#666" x="0" y="73" xml:space="preserve">Bloods shall be performed 2 hrs after the ECG</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1291">
+        <rect x="126.82451" y="64.03752" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 126.82451 64.03752 L 252.06784 64.03752 L 252.06784 89.07037 L 126.82451 89.07037 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1290">
+        <rect x="126.82451" y="95.98531" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 126.82451 95.98531 L 252.06784 95.98531 L 252.06784 121.01815 L 126.82451 121.01815 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1289">
+        <rect x="126.82451" y="131.10426" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 126.82451 131.10426 L 252.06784 131.10426 L 252.06784 156.1371 L 126.82451 156.1371 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1288">
+        <rect x="126.9332" y="164.9189" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 126.9332 164.9189 L 252.17652 164.9189 L 252.17652 189.95174 L 126.9332 189.95174 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(131.9332 168.93532)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="53.204666" y="14" xml:space="preserve">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1287">
+        <rect x="126.77017" y="196.5038" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 126.77017 196.5038 L 252.0135 196.5038 L 252.0135 221.53664 L 126.77017 221.53664 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(131.77017 200.52022)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="53.204666" y="14" xml:space="preserve">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1286">
+        <rect x="126.9332" y="229.07907" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 126.9332 229.07907 L 252.17652 229.07907 L 252.17652 254.1119 L 126.9332 254.1119 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1285">
+        <rect x="127.15057" y="261.65434" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 127.15057 261.65434 L 252.3939 261.65434 L 252.3939 286.6872 L 127.15057 286.6872 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1284">
+        <rect x="127.15057" y="297.35747" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 127.15057 297.35747 L 252.3939 297.35747 L 252.3939 322.3903 L 127.15057 322.3903 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1283">
+        <rect x="126.77017" y="331.978" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 126.77017 331.978 L 252.0135 331.978 L 252.0135 357.01084 L 126.77017 357.01084 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1301">
+        <rect x="265.08924" y="64.03752" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.08924 64.03752 L 390.33257 64.03752 L 390.33257 89.07037 L 265.08924 89.07037 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1300">
+        <rect x="265.0349" y="95.98531" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.0349 95.98531 L 390.2782 95.98531 L 390.2782 121.01815 L 265.0349 121.01815 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1299">
+        <rect x="265.08924" y="131.10426" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.08924 131.10426 L 390.33257 131.10426 L 390.33257 156.1371 L 265.08924 156.1371 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1298">
+        <rect x="265.19792" y="164.9189" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.19792 164.9189 L 390.44125 164.9189 L 390.44125 189.95174 L 265.19792 189.95174 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1297">
+        <rect x="265.0349" y="196.5038" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.0349 196.5038 L 390.2782 196.5038 L 390.2782 221.53664 L 265.0349 221.53664 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1296">
+        <rect x="265.19792" y="229.07907" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.19792 229.07907 L 390.44125 229.07907 L 390.44125 254.1119 L 265.19792 254.1119 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1295">
+        <rect x="265.4153" y="261.65434" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.4153 261.65434 L 390.6586 261.65434 L 390.6586 286.6872 L 265.4153 286.6872 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1294">
+        <rect x="265.4153" y="297.35747" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.4153 297.35747 L 390.6586 297.35747 L 390.6586 322.3903 L 265.4153 322.3903 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1293">
+        <rect x="265.0349" y="331.978" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 265.0349 331.978 L 390.2782 331.978 L 390.2782 357.01084 L 265.0349 357.01084 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1311">
+        <rect x="403.73436" y="64.03752" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 403.73436 64.03752 L 528.9777 64.03752 L 528.9777 89.07037 L 403.73436 89.07037 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1310">
+        <rect x="403.73436" y="95.98531" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 403.73436 95.98531 L 528.9777 95.98531 L 528.9777 121.01815 L 403.73436 121.01815 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1309">
+        <rect x="403.73436" y="131.10426" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 403.73436 131.10426 L 528.9777 131.10426 L 528.9777 156.1371 L 403.73436 156.1371 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1308">
+        <rect x="403.84305" y="164.9189" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 403.84305 164.9189 L 529.0864 164.9189 L 529.0864 189.95174 L 403.84305 189.95174 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1307">
+        <rect x="403.68" y="196.5038" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 403.68 196.5038 L 528.92335 196.5038 L 528.92335 221.53664 L 403.68 221.53664 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(408.68 200.52022)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="53.204666" y="14" xml:space="preserve">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1306">
+        <rect x="403.84305" y="229.07907" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 403.84305 229.07907 L 529.0864 229.07907 L 529.0864 254.1119 L 403.84305 254.1119 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(408.84305 233.0955)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="53.204666" y="14" xml:space="preserve">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1305">
+        <rect x="404.0604" y="261.65434" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 404.0604 261.65434 L 529.30375 261.65434 L 529.30375 286.6872 L 404.0604 286.6872 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(409.0604 265.67077)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="44.356666" y="14" xml:space="preserve">X </tspan>
+          <tspan font-family="Barlow" font-size="14" fill="black" y="14" xml:space="preserve">(b)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1304">
+        <rect x="404.0604" y="297.35747" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 404.0604 297.35747 L 529.30375 297.35747 L 529.30375 322.3903 L 404.0604 322.3903 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(409.0604 301.3739)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="53.204666" y="14" xml:space="preserve">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1303">
+        <rect x="403.68" y="331.978" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M 403.68 331.978 L 528.92335 331.978 L 528.92335 357.01084 L 403.68 357.01084 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <text transform="translate(408.68 335.99442)" fill="#235e00">
+          <tspan font-family="Barlow" font-weight="bold" font-size="14" fill="#235e00" x="44.510666" y="14" xml:space="preserve">X </tspan>
+          <tspan font-family="Barlow" font-size="14" fill="black" y="14" xml:space="preserve">(c)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1378">
+        <rect x="-10.733764" y="366.26335" width="125.24333" height="25.032842" fill="white"/>
+        <path d="M -10.733764 366.26335 L 114.50956 366.26335 L 114.50956 391.2962 L -10.733764 391.2962 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1379">
+        <text transform="translate(-150.05152 405.2135)" fill="#666">
+          <tspan font-family="Barlow" font-size="16" fill="#666" x="0" y="16" xml:space="preserve">a) </tspan>
+          <tspan font-family="Barlow" font-size="16" fill="#666" x="0" y="54" xml:space="preserve">b) </tspan>
+          <tspan font-family="Barlow" font-size="16" fill="#666" x="0" y="73" xml:space="preserve">c) </tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
